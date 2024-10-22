@@ -1,0 +1,15 @@
+0 Apple 6
+1 Apple Braeburn 1
+2 Apple Crimson Snow 1
+3 Apple Golden 1
+4 Apple Golden 2
+5 Apple Golden 3
+6 Apple Granny Smith 1
+7 Apple Pink Lady 1
+8 Apple Red 1
+9 Apple Red 2
+10 Apple Red 3
+11 Apple Red Delicious 1
+12 Apple Red Yellow 1
+13 Apple Red Yellow 2
+14 Apple hit 1
